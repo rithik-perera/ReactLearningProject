@@ -1,0 +1,8 @@
+.sticker{
+    text-align: center;
+    max-width: 200px ;
+    border: solid black;
+    padding: 30px;
+    margin: 20px;
+    float: left;
+}
