@@ -1,0 +1,7 @@
+.welcomeMessage {
+    background-color: greenyellow;
+    max-width: fit-content;
+    padding: 10px;
+    border-radius: 20px;
+    float: right;
+}
