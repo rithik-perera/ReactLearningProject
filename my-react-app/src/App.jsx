@@ -3,6 +3,9 @@ import SearchBar from './SearchBar.jsx'
 import Student from "./Student/Student.jsx";
 import Sticker from "./Sticker/Sticker.jsx";
 import UserGreetings from "./UserGreetings.jsx";
+// import MyComponent from "./MyComponent.jsx";
+import Counter from "./Counter.jsx";
+
 
 function App() {
 
@@ -35,6 +38,11 @@ function App() {
   // return(
   //   <UserGreetings loggedIn = {true} userName='RithikPerera' />
   // );
+
+  return(
+    // <MyComponent />
+    <Counter />
+  );
 
   
 }
