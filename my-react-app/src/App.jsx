@@ -1,11 +1,12 @@
-import Button from "./Button/Button.jsx";
-import SearchBar from './SearchBar.jsx'
-import Student from "./Student/Student.jsx";
-import Sticker from "./Sticker/Sticker.jsx";
-import UserGreetings from "./UserGreetings.jsx";
-// import MyComponent from "./MyComponent.jsx";
-import Counter from "./Counter.jsx";
-import ChangeEventHandler from "./ChangeEventHandler.jsx";
+// import Button from "./Button/Button.jsx";
+// import SearchBar from './AllComponents/SearchBar.jsx'
+// import Student from "./Student/Student.jsx";
+// import Sticker from "./Sticker/Sticker.jsx";
+// import UserGreetings from "./UserGreetings.jsx";
+// // import MyComponent from "./MyComponent.jsx";
+// import Counter from "./AllComponents/Counter.jsx";
+// import ChangeEventHandler from "./AllComponents/ChangeEventHandler.jsx";
+import ColorPicker from "./AllComponents/ColorPicker.jsx";
 
 
 function App() {
@@ -43,7 +44,8 @@ function App() {
   return(
     // <MyComponent />
     // <Counter />
-    <ChangeEventHandler />
+    // <ChangeEventHandler />
+    <ColorPicker />
   );
 
   
