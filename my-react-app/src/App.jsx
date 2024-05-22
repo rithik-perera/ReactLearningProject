@@ -5,6 +5,7 @@ import Sticker from "./Sticker/Sticker.jsx";
 import UserGreetings from "./UserGreetings.jsx";
 // import MyComponent from "./MyComponent.jsx";
 import Counter from "./Counter.jsx";
+import ChangeEventHandler from "./ChangeEventHandler.jsx";
 
 
 function App() {
@@ -41,7 +42,8 @@ function App() {
 
   return(
     // <MyComponent />
-    <Counter />
+    // <Counter />
+    <ChangeEventHandler />
   );
 
   
