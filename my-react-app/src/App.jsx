@@ -7,6 +7,7 @@
 // import Counter from "./AllComponents/Counter.jsx";
 // import ChangeEventHandler from "./AllComponents/ChangeEventHandler.jsx";
 import ColorPicker from "./AllComponents/ColorPicker.jsx";
+import ObjectsInUseState from "./AllComponents/ObjectsInUseState.jsx";
 
 
 function App() {
@@ -45,7 +46,8 @@ function App() {
     // <MyComponent />
     // <Counter />
     // <ChangeEventHandler />
-    <ColorPicker />
+    // <ColorPicker />
+    <ObjectsInUseState />
   );
 
   
