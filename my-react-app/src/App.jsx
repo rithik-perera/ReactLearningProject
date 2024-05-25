@@ -9,6 +9,8 @@
 import ColorPicker from "./AllComponents/ColorPicker.jsx";
 import ObjectsInUseState from "./AllComponents/ObjectsInUseState.jsx";
 
+import ArrayAppending from "./AllComponents/ArrayAppending.jsx";
+
 
 function App() {
 
@@ -47,7 +49,8 @@ function App() {
     // <Counter />
     // <ChangeEventHandler />
     // <ColorPicker />
-    <ObjectsInUseState />
+    // <ObjectsInUseState />
+    <ArrayAppending />
   );
 
   
